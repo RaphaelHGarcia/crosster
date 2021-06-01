@@ -67,7 +67,7 @@ const run = async () => {
       await createProduct(body);
       console.log(`Criou Produto: ${prod.nome}`);
     } catch (err) {
-      // console.error(err);
+      console.error(err);
     }
   });
 };

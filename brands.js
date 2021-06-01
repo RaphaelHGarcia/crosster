@@ -1,6 +1,18 @@
 const createBrand = require("./lib/anymarket/create-brand");
 
 const brands = [
+  "MCUSTA",
+  "NITECORE",
+  "CURTLO",
+  "MASERIN",
+  "OLIGHT",
+  "LEATHERMAN",
+  "BÖKER",
+  "KANETSUNE",
+  "MORAKNIV",
+  "WORK SHARP",
+  "SPYDERCO",
+  "NITE IZE",
   "TRUE UTILITY",
   "BUCK",
   "NEBO",
@@ -10,7 +22,6 @@ const brands = [
   "IMPERIAL",
   "CALIFORNIA TOYS",
   "SCHRADE",
-  "BÖKER",
   "FENIX",
   "UNCLE HENRY",
   "REMINGTON",
