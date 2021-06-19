@@ -38,7 +38,7 @@ const run = async () => {
           id: null,
           name: prod.rev_desenho,
         },
-        origin: { id: "0" },
+        origin: { id: "2" },
         category: { id: "1500285" },
         model: prod.modelo,
         warrantyText: prod.mesesgarantia + " Meses de garantia.",
